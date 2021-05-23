@@ -1,10 +1,10 @@
-body{
-  background-color: brown;
+body {
+  background: darkorange;
 }
 h1 {
   font-size: xx-large;
 }
 
-p{
-  color :cyan;
+p {
+  color :rgb(66, 36, 202);
 }
